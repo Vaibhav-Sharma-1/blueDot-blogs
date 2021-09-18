@@ -1,5 +1,5 @@
 # Live Site Preview Link
-Link - https://expensify-01.herokuapp.com/
+Link - https://bluedot-blogs.web.app/
 
 # Getting Started with Create React App
 
